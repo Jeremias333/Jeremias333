@@ -1,16 +1,21 @@
-### Hi there 👋
+## :pencil2: Jeremias Oliveira
+:link: [![Linkedin Badge](https://img.shields.io/badge/-jeremiasoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremias-oliveira/)](https://www.linkedin.com/in/jeremias-oliveira)
+[![Gmail Badge](https://img.shields.io/badge/-jeremiasprogrammer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeremiasprogrammer@gmail.com)](mailto:jeremiasprogrammer@gmail.com)
+  
+    
+### "Para mudar meu mundo eu me mudo primeiro..."
 
-<!--
-**Jeremias333/Jeremias333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+Acredito piamente que a educação pode mudar vidas e passo a passo levo minha vida nesse trilho para me transformar e inspirar pessoas a alcançar também sua própria mudança.
 
-Here are some ideas to get you started:
+- 20 anos.
+- Recife-PE.
+- Estudando e em busca de um emprego.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Algumas de minhas skills:  
+![java](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/java.png)
+![python](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/python.png)
+![github](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/github.png)
+![android](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/android.png)
+![mysql](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/mysql.png)
+![nodejs](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/nodejs.png)
