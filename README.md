@@ -15,7 +15,12 @@ Acredito piamente que a educação pode mudar vidas e passo a passo levo minha v
 ### Algumas de minhas skills:  
 ![java](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/java.png)
 ![python](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/python.png)
+![django](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/django.png)
 ![github](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/github.png)
 ![android](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/android.png)
 ![mysql](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/mysql.png)
 ![nodejs](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/nodejs.png)
+![api](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/api.png)
+![html](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/html.png)
+![bootstrap](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/bootstrap.png)
+![php](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/php.png)
