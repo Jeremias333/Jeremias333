@@ -10,7 +10,7 @@ Acredito piamente que a educação pode mudar vidas e passo a passo levo minha v
 
 - 20 anos.
 - Recife-PE.
-- Estudando e em busca de um emprego.
+- Estagiário na Pickcells - Desenvolvimento de Software e Inteligência Artificial.
 
 ### Algumas de minhas skills:  
 ![java](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/java.png)
