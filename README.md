@@ -10,7 +10,7 @@ Acredito piamente que a educação pode mudar vidas e passo a passo levo minha v
 
 - 20 anos.
 - Recife-PE.
-- Estagiário na Pickcells - Engenheiro de Software Fullstack (Jr).
+- Pickcells - Engenheiro de Software Fullstack (Jr).
 
 ### Algumas de minhas skills:  
 ![java](https://github.com/Jeremias333/Jeremias333/blob/master/imgs/java.png)
