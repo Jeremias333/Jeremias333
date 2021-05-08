@@ -8,7 +8,7 @@
   
 Acredito piamente que a educação pode mudar vidas e passo a passo levo minha vida nesse trilho para me transformar e inspirar pessoas a alcançar também sua própria mudança.
 
-- 20 anos.
+- 21 anos.
 - Recife-PE.
 - Pickcells - Engenheiro de Software Fullstack (Jr).
 
